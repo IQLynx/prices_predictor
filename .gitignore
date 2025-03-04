@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and Debug Files
+logs/
+*.log
+
+# Environment Variables
+.env
+config.ini
+config.json
+
+# Data and Outputs
+dataset.csv
+data/
+*.db
+*.sqlite
+
+# System and Editor Files
+.DS_Store
+.idea/
+.vscode/
